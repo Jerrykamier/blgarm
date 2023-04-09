@@ -18,7 +18,7 @@ ChatGLM-6B-INT4 是 ChatGLM-6B 量化后的模型权重。具体的，ChatGLM-6B
 ## 软件依赖
 
 ```shell
-pip install protobuf==3.20.0 transformers==4.26.1 icetk cpm_kernels
+pip install protobuf transformers==4.27.1 cpm_kernels
 ```
 
 ## 代码调用 
